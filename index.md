@@ -7,12 +7,12 @@ title: Welcome to the Floral Planner
       <style> 
         h2 {
             color: rgb(249, 140, 158); 
-            text-align: center
+            text-align: center;
          }
         button {
-          color: red 
-            text-align: center 
-          };
+          color: red;
+            text-align: center;
+          }
       </style>
   </head>
   <body>
