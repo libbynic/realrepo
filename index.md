@@ -1,18 +1,20 @@
 ---
-title: Cottage FLoral 
+title: Cottage Floral 
 ---
 <html> 
   <head>
   <title> Floral Planner </title>
       <style> 
         button {
-            color: rgb(249, 140, 158);
+            color: black;
             text-align: center;
             display: block;          /* makes the button behave like a block */
             margin: 0 auto;          /* centers it horizontally */
               }
         h1 {
+          text-align: center;
           font-family: "Allura", cursive;
+          font-size: 60px;
           }
         h2 {
             color: black; 
@@ -28,5 +30,6 @@ title: Cottage FLoral
     <h1> The Floral Planner </h1> 
     <h2> Looking to start a new project? </h2>
     <button type="button"> Start Project! </button> 
+    <img src="images/wedding-florals.jpg" alt="Wedding Florals">
   </body>
 </html>
