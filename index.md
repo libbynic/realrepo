@@ -1,12 +1,22 @@
 ---
-title: Welcome to my blog
+title: Welcome to the Floral Planner 
 ---
-<!DOCTYPE html>
 <html> 
   <head>
   <title> Floral Planner </title>
+      <style> 
+        h2 {
+            color: rgb(249, 140, 158); 
+            text-align: center
+         }
+        button {
+          color: red 
+            text-align: center 
+          }
+        
   </head>
   <body>
-    <h1> LIBBY YOU CAN DO THIS </h1>
+    <h2> Looking to start a new project? </h2>
+    <button type="button"> Start Project! </button> 
   </body>
 </html>
