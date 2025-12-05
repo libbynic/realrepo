@@ -30,6 +30,6 @@ title: Cottage Floral
     <h1> The Floral Planner </h1> 
     <h2> Looking to start a new project? </h2>
     <button type="button"> Start Project! </button> 
-    <img src="images/wedding-florals.jpg" alt="Wedding Florals">
+    <img src="wedding-florals.jpg" alt="Wedding Florals">
   </body>
 </html>
