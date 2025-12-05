@@ -12,8 +12,8 @@ title: Welcome to the Floral Planner
         button {
           color: red 
             text-align: center 
-          }
-        
+          };
+      </style>
   </head>
   <body>
     <h2> Looking to start a new project? </h2>
